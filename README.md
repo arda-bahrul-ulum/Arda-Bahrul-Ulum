@@ -1,4 +1,4 @@
-### Hi there 👋 
+Hi there 👋 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=2500&pause=1000&color=FF8787&vCenter=true&width=435&lines=I'm+a+Web+Developer;I'm+a+Back+End+Developer;)
 
 I am Arda Bahrul Ulum, I like things in the field of programming especially in the field of web development Back End (for PHP using Laravel Framework with JQuery) using database (MySQL, PostgreSQl, SQL Server) and have expertise in that field and have work experience in the field of web development. In addition, i once took a web development certification from the ministry of communication and informatics (Kominfo). To find out more about me & feel free to connect with me here:
@@ -9,8 +9,7 @@ I am Arda Bahrul Ulum, I like things in the field of programming especially in t
 ](https://twitter.com/ardabhrl_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arda.ulum27@gmail.com)
 
-
-## ⚡ Technologies
+⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
