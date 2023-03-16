@@ -10,6 +10,9 @@ I am Arda Bahrul Ulum, I like things in the field of programming especially in t
 ](https://twitter.com/ardabhrl_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arda.ulum27@gmail.com)
 
+- &nbsp;I’m currently working at [PT FLoo Integra Digital](https://floo.co.id/)
+- &nbsp;I’m currently learning javascript, node js (nest js framework) & vue js
+
 ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
