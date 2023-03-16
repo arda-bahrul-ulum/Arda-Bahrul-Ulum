@@ -33,7 +33,7 @@ I am Arda Bahrul Ulum, I like things in the field of programming especially in t
 ![Github Resume](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arda-bahrul-ulum&theme=vue)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=arda-bahrul-ulum)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arda-bahrul-ulum&langs_count=8&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arda-bahrul-ulum&langs_count=8&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arda-bahrul-ulum)
