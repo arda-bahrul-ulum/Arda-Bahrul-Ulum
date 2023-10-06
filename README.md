@@ -12,7 +12,7 @@ I am <b>Arda Bahrul Ulum</b>, I like things in the field of programming especial
 
 - &nbsp;I’m currently working at [Floo ID](https://floo.co.id/) or more fully, namely PT Floo Integra Digital
 - &nbsp;I’m currently learning javascript, node js using [nest js framework](https://nestjs.com) & [vue js](https://vuejs.org/)
-- &nbsp;and i am very interested in [golang](https://go.dev/) and i currently learn it
+- &nbsp;and i am very interested in [golang](https://go.dev/) and currently learn it
 
 ⚡ Technologies
 
