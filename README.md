@@ -2,7 +2,8 @@ Hi there 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=2500&pause=1000&color=FF8787&vCenter=true&width=435&lines=I'm+a+Web+Developer;I'm+a+Back+End+Developer;)
 
-I am <b>Arda Bahrul Ulum</b>, like things in the field of programming especially in the field of web application development with focus in Back End, for PHP using Laravel Framework with JQuery using database MySQL, PostgreSQL and SQL Server. I have an expertise in that field and have work experience in the field of web application development. In addition, i once took a web development certification from the ministry of communication and informatics (Kominfo). To find out more about me & feel free to connect with me here:
+I am <b>Arda Bahrul Ulum</b>, Passionate and has more than 2 years of experience in programming, especially in the field of web application development with a focus on Back-End Coding, for PHP using Laravel Framework with JQuery and using several databases such as MySQL, PostgreSQL and SQL Server.  I have an expertise and have work experience in the field of web application development. I'm also very interested in Golang and currently I'm learning it. 
+In addition, i once took a web development certification from the ministry of communication and informatics (Kominfo). To find out more about me & feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/ardabahrululum)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ardabhrl_)
