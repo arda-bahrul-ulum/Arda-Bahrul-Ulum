@@ -2,7 +2,7 @@ Hi there 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=2500&pause=1000&color=FF8787&vCenter=true&width=435&lines=I'm+a+Web+Developer;I'm+a+Back+End+Developer;)
 
-I am <b>Arda Bahrul Ulum</b>, passionate and has more than 2 years of experience in programming, especially in the field of web application development with a focus on Back-End Coding, for PHP using Laravel Framework with JQuery and using several databases such as MySQL, PostgreSQL and SQL Server.  I have an expertise and have work experience in the field of web application development. I'm also very interested in Golang and currently I'm learning it. 
+I am <b>Arda Bahrul Ulum</b>, passionate and has more than 2 years of experience in programming, especially in the field of web application development with a focus on Back-End Coding, for PHP using Laravel Framework with JQuery, Vue JS and using several databases such as MySQL, PostgreSQL and SQL Server.  I have an expertise and have work experience in the field of web application development. I'm also very interested in Golang and currently I'm learning it. 
 In addition, i once took a web development certification from the ministry of communication and informatics (Kominfo). To find out more about me & feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/ardabahrululum)
@@ -11,7 +11,7 @@ In addition, i once took a web development certification from the ministry of co
 ](https://twitter.com/ardabhrl_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arda.ulum27@gmail.com)
 
-- &nbsp;I’m currently working at [Floo ID](https://floo.co.id/) or more fully, namely PT Floo Integra Digital
+- &nbsp;I’m currently working at PT Trisakti Jaya Perkasa
 - &nbsp;I’m currently learning javascript, node js using [nest js framework](https://nestjs.com) & [vue js](https://vuejs.org/)
 - &nbsp;and i am very interested in [golang](https://go.dev/) and currently learn it too
 
