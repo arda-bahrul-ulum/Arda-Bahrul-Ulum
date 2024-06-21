@@ -1,6 +1,6 @@
 Hi there 👋 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=2500&pause=1000&color=FF8787&vCenter=true&width=435&lines=I'm+a+Web+Developer;I'm+a+Back+End+Developer;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=2500&pause=1000&color=FF8787&vCenter=true&width=435&lines=I'm+a+Web+Developer;I'm+a+Back+End+Developer;I'm+a+Software+Developer)
 
 I am <b>Arda Bahrul Ulum</b>, passionate and has more than 2 years of experience in programming, especially in the field of web application development with a focus on Back-End Coding, for PHP using Laravel Framework with JQuery, Vue JS and using several databases such as MySQL, PostgreSQL and SQL Server.  I have an expertise and have work experience in the field of web application development. I'm also very interested in Golang and currently I'm learning it.
 To find out more about me & feel free to connect with me here:
