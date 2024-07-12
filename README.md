@@ -27,8 +27,6 @@ I am <b>Arda Bahrul Ulum</b>, passionate in programming especially in the field 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-![Github Resume](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arda-bahrul-ulum&theme=vue)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=arda-bahrul-ulum)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arda-bahrul-ulum&langs_count=8&layout=compact)
