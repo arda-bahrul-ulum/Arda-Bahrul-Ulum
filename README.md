@@ -2,10 +2,12 @@ Hi there 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=2500&pause=1000&color=FF8787&vCenter=true&width=435&lines=I'm+a+Web+Developer;I'm+a+Back+End+Developer;)
 
-I am <b>Arda Bahrul Ulum</b>, passionate in programming especially in the field of web application development with a focus on Back-End Coding,
+
+I am <b>Arda Bahrul Ulum</b>, passionate in programming especially in the field of web application development with a focus on Back-End Coding.
 
 - &nbsp;I’m currently learning javascript such as [node js](https://nodejs.org/en)
 - &nbsp;and i am very interested in [golang](https://go.dev/) and currently learn it too
+
 
 ⚡ Technologies
 
