@@ -1,18 +1,10 @@
 Hi there 👋 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=2500&pause=1000&color=FF8787&vCenter=true&width=435&lines=I'm+a+Web+Developer;I'm+a+Back+End+Developer;I'm+a+Software+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=2500&pause=1000&color=FF8787&vCenter=true&width=435&lines=I'm+a+Web+Developer;I'm+a+Back+End+Developer;)
 
-I am <b>Arda Bahrul Ulum</b>, passionate and has more than 2 years of experience in programming, especially in the field of web application development with a focus on Back-End Coding, for PHP using Laravel Framework with JQuery, Vue JS and using several databases such as MySQL, PostgreSQL and SQL Server.  I have an expertise and have work experience in the field of web application development. I'm also very interested in Golang and currently I'm learning it.
-To find out more about me & feel free to connect with me here:
+I am <b>Arda Bahrul Ulum</b>, passionate in programming especially in the field of web application development with a focus on Back-End Coding,
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/ardabahrululum)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ardabhrl_)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
-](https://twitter.com/ardabhrl_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arda.ulum27@gmail.com)
-
-- &nbsp;I’m currently working at PT Trisakti Jaya Perkasa
-- &nbsp;I’m currently learning javascript, node js using [nest js framework](https://nestjs.com) & [vue js](https://vuejs.org/)
+- &nbsp;I’m currently learning javascript such as [node js](https://nodejs.org/en)
 - &nbsp;and i am very interested in [golang](https://go.dev/) and currently learn it too
 
 ⚡ Technologies
