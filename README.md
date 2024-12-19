@@ -6,4 +6,4 @@ I am <b>Arda Bahrul Ulum</b>, leveraging over 2+ years of experience, I possess 
 
 Furthermore, I possess in-depth knowledge of relational databases like MySQL, PostgreSQL, and SQL Server.  A continuous learner, I am actively expanding my skillset by exploring Golang.  
 
-Additionally, I am proficient in front-end technologies such as jQuery, Vue.js and React.js, enabling me to build user-friendly and interactive interfaces that complement my back-end expertise.
+Additionally, I am proficient in front-end technologies such as jQuery, VueJS and ReactJS, enabling me to build user-friendly and interactive interfaces that complement my back-end expertise.
