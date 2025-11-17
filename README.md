@@ -4,4 +4,4 @@ Hi there 👋
 
 With over 3+ years of experience, I excel in developing robust and scalable web applications, specializing in back-end and full-stack development. My expertise includes building web apps and APIs using PHP (Laravel), Nodes.js (Express.js, Next.js and AdonisJs), as well as integrating relational databases such as MySQL, PostgreSQL, and SQL Server. 
 
-Additionally, I bring proficiency in front-end technologies like Vue.js, React.js, and jQuery, creating seamless, user-friendly interfaces. Continuously expanding my skill set, I am currently exploring Go (Golang) to further enhance my technical capabilities.
+Additionally, I bring proficiency in front-end technologies like Vue.js and React.js, creating seamless, user-friendly interfaces. Continuously expanding my skill set, I am currently exploring Go (Golang) to further enhance my technical capabilities.
