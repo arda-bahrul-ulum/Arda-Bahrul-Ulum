@@ -1,7 +1,24 @@
-Hi there 👋 
+# Hi there, I'm Arda Bahrul Ulum
+### Full-Stack Developer | PHP, Node.js & Golang Enthusiast
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=2500&pause=1000&color=FF8787&vCenter=true&width=435&lines=I'm+a+Full-Stack+Developer;I'm+a+Software+Developer;)
+With 5+ years of experience, I build robust and scalable web applications, focusing on back-end and full-stack development.
 
-With over 5+ years of experience, I excel in developing robust and scalable web applications, specializing in back-end and full-stack development. My expertise includes building web apps and APIs using PHP (Laravel), Nodes.js (Express.js, Nest.js, Next.js and AdonisJs), as well as integrating relational databases such as MySQL, PostgreSQL, and SQL Server. 
+- Currently building full-stack apps with Laravel, Next.js, and Golang (GIN)
+- Currently deepening my skills in Go (Golang)
+- Ask me about PHP/Laravel, Node.js (Express, Nest, Adonis), Vue.js & React.js
+- Reach me at linkedin.com/in/arda-bahrul-ulum
+- Portfolio: ardabhrl.vercel.app
 
-Additionally, I bring proficiency in front-end technologies like Vue.js and React.js, creating seamless, user-friendly interfaces. Continuously expanding my skill set, I am currently exploring Go (Golang) to further enhance my technical capabilities.
+### Tech Stack
+Backend: PHP (Laravel), Node.js (Express.js, Nest.js, AdonisJS), Go (GIN)
+Frontend: Next.js, React.js, Vue.js, Inertia, Tailwind CSS
+Database: MySQL, PostgreSQL, SQL Server
+
+### Featured Projects
+- golang-ajax-crud - CRUD app with Golang, MySQL, jQuery AJAX and Bootstrap
+- crud-go-react-ts - Full-stack CRUD with Golang (GIN) + React TypeScript + PostgreSQL
+- pos-expressjs - Point of Sale app with Express.js and MySQL
+
+### GitHub Stats
+![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=arda-bahrul-ulum&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arda-bahrul-ulum&layout=compact)
