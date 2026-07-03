@@ -1,24 +1,38 @@
-# Hi there, I'm Arda Bahrul Ulum
+# Hi, I'm Arda Bahrul Ulum
 ### Full-Stack Developer | PHP, Node.js & Golang Enthusiast
 
-With 5+ years of experience, I build robust and scalable web applications, focusing on back-end and full-stack development.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ardabhrl.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arda-bahrul-ulum) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ardabhrl_) ![Followers](https://img.shields.io/github/followers/arda-bahrul-ulum?style=for-the-badge&logo=github&label=Followers&color=181717)
 
-- Currently building full-stack apps with Laravel, Next.js, and Golang (GIN)
-- Currently deepening my skills in Go (Golang)
-- Ask me about PHP/Laravel, Node.js (Express, Nest, Adonis), Vue.js & React.js
-- Reach me at linkedin.com/in/arda-bahrul-ulum
-- Portfolio: ardabhrl.vercel.app
+## About Me
 
-### Tech Stack
-Backend: PHP (Laravel), Node.js (Express.js, Nest.js, AdonisJS), Go (GIN)
-Frontend: Next.js, React.js, Vue.js, Inertia, Tailwind CSS
-Database: MySQL, PostgreSQL, SQL Server
+Full-Stack Developer with 5+ years of experience building robust, scalable web applications, with a focus on back-end and full-stack development. Currently building full-stack apps with Laravel, Next.js, and Golang (GIN), while deepening my expertise in Go. Comfortable across PHP/Laravel, Node.js (Express, Nest, Adonis), Vue.js, and React.js.
 
-### Featured Projects
-- golang-ajax-crud - CRUD app with Golang, MySQL, jQuery AJAX and Bootstrap
-- crud-go-react-ts - Full-stack CRUD with Golang (GIN) + React TypeScript + PostgreSQL
-- pos-expressjs - Point of Sale app with Express.js and MySQL
+## Tech Stack
 
-### GitHub Stats
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=arda-bahrul-ulum&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arda-bahrul-ulum&layout=compact)
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+## Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [golang-ajax-crud](https://github.com/arda-bahrul-ulum/golang-ajax-crud) | CRUD app with jQuery AJAX | Go, MySQL, Bootstrap |
+| [crud-go-react-ts](https://github.com/arda-bahrul-ulum/crud-go-react-ts) | Full-stack CRUD (Clean Architecture) | Go (GIN), React, TS, PostgreSQL |
+| [pos-expressjs](https://github.com/arda-bahrul-ulum/pos-expressjs) | Point of Sale application | Express.js, MySQL |
+
+## GitHub Stats
+
+![Stars](https://img.shields.io/github/stars/arda-bahrul-ulum?style=flat&logo=github&label=Total%20Stars&color=181717)
