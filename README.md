@@ -33,6 +33,18 @@ Full-Stack Developer with 5+ years of experience building robust, scalable web a
 | [crud-go-react-ts](https://github.com/arda-bahrul-ulum/crud-go-react-ts) | Full-stack CRUD (Clean Architecture) | Go (GIN), React, TS, PostgreSQL |
 | [pos-expressjs](https://github.com/arda-bahrul-ulum/pos-expressjs) | Point of Sale application | Express.js, MySQL |
 
+## Experience
+
+**Online Billing System** — Company Project (Private)
+
+Full-Stack Developer building an internal billing platform handling invoicing, customer management, and reporting. Rebuilt the modern version on a high-performance stack, migrating from a legacy native codebase.
+
+**New version:** Laravel Octane, FrankenPHP, Nuxt.js, PostgreSQL
+
+**Legacy version:** Native PHP, Native JavaScript, PostgreSQL
+
+Source code is private as it is proprietary company software.
+
 ## GitHub Stats
 
 ![Stars](https://img.shields.io/github/stars/arda-bahrul-ulum?style=flat&logo=github&label=Total%20Stars&color=181717)
