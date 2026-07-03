@@ -5,7 +5,7 @@
 
 ## About Me
 
-Full-Stack Developer with 5+ years of experience building robust, scalable web applications, with a focus on back-end and full-stack development. Currently building full-stack apps with Laravel, Next.js, and Golang (GIN), while deepening my expertise in Go. Comfortable across PHP/Laravel, Node.js (Express, Nest, Adonis), Vue.js, and React.js.
+Full-Stack Developer experienced in building robust, scalable web applications and enterprise systems, with a strong focus on back-end and full-stack development. I have delivered internal company systems, ERP platforms, and e-commerce solutions across PHP/Laravel, Node.js, and Golang. Comfortable across PHP/Laravel, Node.js (Express, Nest, Adonis), Vue.js, React.js, and PostgreSQL/MySQL.
 
 ## Tech Stack
 
@@ -35,15 +35,28 @@ Full-Stack Developer with 5+ years of experience building robust, scalable web a
 
 ## Experience
 
-**Online Billing System** — Company Project (Private)
+Full-Stack Developer delivering enterprise systems, ERP platforms, and e-commerce solutions. The projects below are private, proprietary company/client software, so source code is not publicly shared.
 
-Full-Stack Developer building an internal billing platform handling invoicing, customer management, and reporting. Rebuilt the modern version on a high-performance stack, migrating from a legacy native codebase.
+### Enterprise Systems — PT Trisakti Jaya Perkasa
 
-**New version:** Laravel Octane, FrankenPHP, Nuxt.js, PostgreSQL
+| Project | Role | Description | Stack |
+| --- | --- | --- | --- |
+| centralbajaprima | Full-Stack Developer | Internal system for transactions, sales, and goods reporting | Laravel, Blade, MySQL |
+| centralalumunium | Full-Stack Developer | Internal system for transactions, sales, import, reporting, and stock management | Laravel, PHP, MySQL |
+| trisakti | Full-Stack Developer | Internal operational order management system | Laravel, PHP, MySQL |
+| payrolltjp | Full-Stack Developer | Payroll and HRIS internal system | Laravel, PHP, MySQL |
 
-**Legacy version:** Native PHP, Native JavaScript, PostgreSQL
+### ERP & Large-Scale Systems
 
-Source code is private as it is proprietary company software.
+| Project | Role | Description | Stack |
+| --- | --- | --- | --- |
+| onega-web-app + onega-ui | Full-Stack Developer | Web-based ERP platform (back-end app and UI) | Laravel, Vue.js |
+| online-billing-system | Full-Stack Developer | Internal billing platform (invoicing, customers, reporting); modernized from legacy | Laravel Octane, FrankenPHP, Nuxt.js, PostgreSQL (legacy: native PHP/JS) |
+| wedding-market | Full-Stack Developer | Wedding vendor marketplace platform | Goravel, React, PostgreSQL |
+| online-store | Full-Stack Developer | E-commerce platform with payment gateway and error tracking | Laravel, Vue.js, MySQL, Midtrans, Sentry |
+| sbi-management-system | Full-Stack Developer | POS and sales operations management system | Laravel, Blade, MySQL |
+| mpm-most-2019-web | Full-Stack Developer | Customer satisfaction survey system | PHP, SCSS |
+| pi-dimas-nonpso-api | Back-End Developer | Distributor management API | Laravel, PHP |
 
 ## GitHub Stats
 
