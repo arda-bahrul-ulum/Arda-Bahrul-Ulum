@@ -1,11 +1,11 @@
 # Hi, I'm Arda Bahrul Ulum
 ### Full-Stack Developer | PHP, Node.js & Golang Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ardabhrl.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arda-bahrul-ulum) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ardabhrl_) ![Followers](https://img.shields.io/github/followers/arda-bahrul-ulum?style=for-the-badge&logo=github&label=Followers&color=181717)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ardabhrl.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arda-bahrul-ulum) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ardabhrl_) ![Followers](https://img.shields.io/github/followers/arda-bahrul-ulum?style=for-the-badge&logo=github&label=Followers&color=181717) ![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-orange?style=for-the-badge&logo=clockify&logoColor=white)
 
 ## About Me
 
-Full-Stack Developer experienced in building robust, scalable web applications and enterprise systems, with a strong focus on back-end and full-stack development. I have delivered internal company systems, ERP platforms, and e-commerce solutions across PHP/Laravel, Node.js, and Golang. Comfortable across PHP/Laravel, Node.js (Express, Nest, Adonis), Vue.js, React.js, and PostgreSQL/MySQL.
+With 5+ years of professional experience, I am a Full-Stack Developer specializing in building robust, scalable web applications and enterprise systems, with a strong focus on back-end and full-stack development. I have delivered internal company systems, ERP platforms, and e-commerce solutions across PHP/Laravel, Node.js, and Golang. Comfortable across PHP/Laravel, Node.js (Express, Nest, Adonis), Vue.js, React.js, and PostgreSQL/MySQL.
 
 ## Tech Stack
 
