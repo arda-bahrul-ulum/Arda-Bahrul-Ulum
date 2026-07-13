@@ -39,24 +39,24 @@ Full-Stack Developer delivering enterprise systems, ERP platforms, and e-commerc
 
 ### Enterprise Systems — Manufacturing & Distribution Company
 
-| Role | Description | Stack |
-| --- | --- | --- |
-| Full-Stack Developer | Internal system for transactions, sales, and goods reporting | Laravel, Blade, MySQL |
-| Full-Stack Developer | Internal system for transactions, sales, import, reporting, and stock management | Laravel, PHP, MySQL |
-| Full-Stack Developer | Internal operational order management system | Laravel, PHP, MySQL |
-| Full-Stack Developer | Payroll and HRIS internal system | Laravel, PHP, MySQL |
+| Description | Stack |
+| --- | --- |
+| Internal system for transactions, sales, and goods reporting | Laravel, Blade, MySQL |
+| Internal system for transactions, sales, import, reporting, and stock management | Laravel, PHP, MySQL |
+| Internal operational order management system | Laravel, PHP, MySQL |
+| Payroll and HRIS internal system | Laravel, PHP, MySQL |
 
 ### ERP & Large-Scale Systems
 
-| Role | Description | Stack |
-| --- | --- | --- |
-| Full-Stack Developer | Web-based ERP platform (back-end app and UI) | Laravel, Vue.js |
-| Full-Stack Developer | Internal billing platform (invoicing, customers, reporting); modernized from legacy | Laravel Octane, FrankenPHP, Nuxt.js, PostgreSQL (legacy: native PHP/JS) |
-| Full-Stack Developer | Wedding vendor marketplace platform | Goravel, React, PostgreSQL |
-| Full-Stack Developer | E-commerce platform with payment gateway and error tracking | Laravel, Vue.js, MySQL, Midtrans, Sentry |
-| Full-Stack Developer | POS and sales operations management system | Laravel, Blade, MySQL |
-| Full-Stack Developer | Customer satisfaction survey system | PHP, SCSS |
-| Back-End Developer | Distributor management API | Laravel, PHP |
+| Description | Stack |
+| --- | --- |
+| Web-based ERP platform (back-end app and UI) | Laravel, Vue.js |
+| Internal billing platform (invoicing, customers, reporting); modernized from legacy | Laravel Octane, FrankenPHP, Nuxt.js, PostgreSQL (legacy: native PHP/JS) |
+| Wedding vendor marketplace platform | Goravel, React, PostgreSQL |
+| E-commerce platform with payment gateway and error tracking | Laravel, Vue.js, MySQL, Midtrans, Sentry |
+| POS and sales operations management system | Laravel, Blade, MySQL |
+| Customer satisfaction survey system | PHP, SCSS |
+| Distributor management API | Laravel, PHP |
 
 ## GitHub Stats
 
