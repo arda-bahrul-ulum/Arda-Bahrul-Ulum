@@ -37,26 +37,26 @@ With 5+ years of professional experience, I am a Full-Stack Developer specializi
 
 Full-Stack Developer delivering enterprise systems, ERP platforms, and e-commerce solutions. The projects below are private, proprietary company/client software, so source code is not publicly shared.
 
-### Enterprise Systems — PT Trisakti Jaya Perkasa
+### Enterprise Systems — Manufacturing & Distribution Company
 
-| Project | Role | Description | Stack |
-| --- | --- | --- | --- |
-| centralbajaprima | Full-Stack Developer | Internal system for transactions, sales, and goods reporting | Laravel, Blade, MySQL |
-| centralalumunium | Full-Stack Developer | Internal system for transactions, sales, import, reporting, and stock management | Laravel, PHP, MySQL |
-| trisakti | Full-Stack Developer | Internal operational order management system | Laravel, PHP, MySQL |
-| payrolltjp | Full-Stack Developer | Payroll and HRIS internal system | Laravel, PHP, MySQL |
+| Role | Description | Stack |
+| --- | --- | --- |
+| Full-Stack Developer | Internal system for transactions, sales, and goods reporting | Laravel, Blade, MySQL |
+| Full-Stack Developer | Internal system for transactions, sales, import, reporting, and stock management | Laravel, PHP, MySQL |
+| Full-Stack Developer | Internal operational order management system | Laravel, PHP, MySQL |
+| Full-Stack Developer | Payroll and HRIS internal system | Laravel, PHP, MySQL |
 
 ### ERP & Large-Scale Systems
 
-| Project | Role | Description | Stack |
-| --- | --- | --- | --- |
-| onega-web-app + onega-ui | Full-Stack Developer | Web-based ERP platform (back-end app and UI) | Laravel, Vue.js |
-| online-billing-system | Full-Stack Developer | Internal billing platform (invoicing, customers, reporting); modernized from legacy | Laravel Octane, FrankenPHP, Nuxt.js, PostgreSQL (legacy: native PHP/JS) |
-| wedding-market | Full-Stack Developer | Wedding vendor marketplace platform | Goravel, React, PostgreSQL |
-| online-store | Full-Stack Developer | E-commerce platform with payment gateway and error tracking | Laravel, Vue.js, MySQL, Midtrans, Sentry |
-| sbi-management-system | Full-Stack Developer | POS and sales operations management system | Laravel, Blade, MySQL |
-| mpm-most-2019-web | Full-Stack Developer | Customer satisfaction survey system | PHP, SCSS |
-| pi-dimas-nonpso-api | Back-End Developer | Distributor management API | Laravel, PHP |
+| Role | Description | Stack |
+| --- | --- | --- |
+| Full-Stack Developer | Web-based ERP platform (back-end app and UI) | Laravel, Vue.js |
+| Full-Stack Developer | Internal billing platform (invoicing, customers, reporting); modernized from legacy | Laravel Octane, FrankenPHP, Nuxt.js, PostgreSQL (legacy: native PHP/JS) |
+| Full-Stack Developer | Wedding vendor marketplace platform | Goravel, React, PostgreSQL |
+| Full-Stack Developer | E-commerce platform with payment gateway and error tracking | Laravel, Vue.js, MySQL, Midtrans, Sentry |
+| Full-Stack Developer | POS and sales operations management system | Laravel, Blade, MySQL |
+| Full-Stack Developer | Customer satisfaction survey system | PHP, SCSS |
+| Back-End Developer | Distributor management API | Laravel, PHP |
 
 ## GitHub Stats
 
